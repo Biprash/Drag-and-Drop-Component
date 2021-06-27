@@ -1,8 +1,9 @@
 # Drag and Drop Component
+<hr>
 
-###Drag and Drop Component in Javascript
+## Drag and Drop Component in Javascript
 Follow the [link](https://github.com/Biprash/Drag-and-Drop-Component-JS/tree/javascript) and download or clone the repository for Pure JS drag and drop.
 
-###Drag and Drop Component in React
+## Drag and Drop Component in React
 Follow the [link](https://github.com/Biprash/Drag-and-Drop-Component-JS/tree/react) and download or clone the repository for React.js drag and drop.
 
